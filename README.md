@@ -55,3 +55,7 @@ Read the [guides](docs/README.md), run the [examples](examples/README.md), or in
 ## License
 
 [MIT](LICENSE) © Huang Zeyao.
+
+## Update 2026-09-29 22:12:30
+Added configuration following security guidelines - ID: xgwlsh5m
+
